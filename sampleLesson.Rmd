@@ -1,0 +1,32 @@
+---
+title: "Sample Lesson"
+author: "Jeremy McWilliams"
+date: "June 23rd, 2022"
+output: html_notebook
+---
+
+In this lesson, we're going to learn the following:
+
+* how to install a package
+* how to use the library function to make use of the installed package
+* how to view a dataset from the installed package
+
+
+
+
+
+
+```{r}
+install.packages("palmerpenguins")
+library(palmerpenguins)
+```
+
+
+```{r}
+
+penguins
+
+
+
+```
+

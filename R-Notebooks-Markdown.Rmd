@@ -102,7 +102,7 @@ For the rest of today, get some practice at creating your own notebook (File->Ne
 
 For the code chunks, you're welcome to write new code based upon things you've learned, or borrow some code from the "notebooks" directory in the files section.
 
-Experiment! Try adding something, knit your document, and see how it looks. Make changes if you don't like it, and knt again.
+Experiment! Try adding something, knit your document, and see how it looks. Make changes if you don't like it, and knit again.
 
 
 
